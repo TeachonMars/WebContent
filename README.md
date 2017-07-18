@@ -7,7 +7,7 @@ Compatible with HTML5, IE9+
 Work with Android, iOS and webApp 
 
 ## Table of Contents
-**[How to use Tom client JavaScript library in your webContent](#installation-instructions)**<br>
+**[How to use Tom client JavaScript library in your webContent](#how-to-use-tom-client-javascript-library-in-your-webcontent)**<br>
 **[Available environment variables](#available-environment-variables)**<br>
 **[API](#api)**<br>
 
